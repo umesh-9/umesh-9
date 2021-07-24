@@ -1,4 +1,4 @@
-- 👋 Hi, I’m UMAMAHES WARA RAO MALLIPUDI.
+- 👋 Hi, I’m UMAMAHESWARARAO MALLIPUDI.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently studing computer scinece engineering in chennai.
 - 💞️ I’m looking to collaborate on new skills
